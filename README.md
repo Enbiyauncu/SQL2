@@ -1,0 +1,2 @@
+# SQL2
+SQL ÖDEV 2 BETWEEN IN
